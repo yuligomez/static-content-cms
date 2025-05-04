@@ -45,7 +45,7 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to view the 
 
 ## 🌐 Live Demo
 
-Check out the live deployed version:
+[View the deployed site](https://static-content-cms.vercel.app)
 
 ---
 

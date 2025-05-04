@@ -1,4 +1,4 @@
-# Acme CMS – Markdown-Based CMS with Next.js
+# Next.js Markdown CMS – Dynamic Page Generation from Content Files
 
 This is a content management system built with **Next.js**, **Tailwind CSS**, and **Markdown**.  
 Pages are rendered dynamically based on the folder structure under the `/content` directory.
@@ -38,8 +38,6 @@ npm run dev
 # or
 yarn dev
 ```
-
-Open [http://localhost:3000](http://localhost:3000) in your browser to view the app.
 
 ---
 

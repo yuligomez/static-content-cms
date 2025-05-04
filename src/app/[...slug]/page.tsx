@@ -19,7 +19,7 @@ export default async function Page({ params }: PageProps) {
   if (!fullHtml) return notFound();
 
   return (
-    <div className="bg-gray-50 min-h-screen py-12">
+    <div className="py-12">
       <article className="prose prose-neutral max-w-3xl mx-auto px-4">
         <div dangerouslySetInnerHTML={{ __html: fullHtml }} />
       </article>

@@ -1,4 +1,5 @@
 # Acme CMS
+
 **Acme CMS** is a lightweight MVP content management system built with **Next.js + TypeScript**, **Tailwind CSS**, and **Markdown**.
 
 Pages are rendered dynamically based on the folder structure under the `/content` directory.
@@ -88,3 +89,9 @@ For example:
 ```
 
 The page will be automatically available at `/{folder-name}` without any extra configuration.
+
+## 🧪 Test Content
+
+For testing purposes, a sample Markdown file (`home-page.md`) was added under `/content` to validate the rendering of Markdown content.
+
+Feel free to replace or remove it when adding your own content.
